@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/dist/static/js/app.fbf7e6b8598cd92d0265.js" />
+        <item url="file://$PROJECT_DIR$/dist/build/dev-server.js" />
+        <item url="file://$PROJECT_DIR$/dist/build/webpack.dev.conf.js" />
+        <item url="file://$PROJECT_DIR$/dist/build/build.js" />
+        <item url="file://$PROJECT_DIR$/dist/dist/static/js/manifest.b37302381575689cfe0a.js" />
+        <item url="file://$PROJECT_DIR$/dist/dist/static/js/vendor.d1b426ba36dfb37049ec.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/router/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/main.js" />
+        <item url="file://$PROJECT_DIR$/dist/build/webpack.prod.conf.js" />
+        <item url="file://$PROJECT_DIR$/dist/.eslintrc.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/dist/static/js/app.fbf7e6b8598cd92d0265.js" />
+      <root url="file://$PROJECT_DIR$/dist/build/dev-server.js" />
+      <root url="file://$PROJECT_DIR$/dist/build/webpack.dev.conf.js" />
+      <root url="file://$PROJECT_DIR$/dist/build/build.js" />
+      <root url="file://$PROJECT_DIR$/dist/dist/static/js/manifest.b37302381575689cfe0a.js" />
+      <root url="file://$PROJECT_DIR$/dist/dist/static/js/vendor.d1b426ba36dfb37049ec.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/router/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/main.js" />
+      <root url="file://$PROJECT_DIR$/dist/build/webpack.prod.conf.js" />
+      <root url="file://$PROJECT_DIR$/dist/.eslintrc.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
