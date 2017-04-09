@@ -1,7 +1,7 @@
 <template>
     <section>
-        <h1>我是模板组件{{name}}</h1>
-        <button v-on:click='clickMe'>点我</button>
+        <h1>我是模板组件{{name}}{{age}}</h1>
+        <button v-on:click='clickMe'>{{propsName}}</button>
     </section>
 </template>
 <script>
@@ -11,9 +11,13 @@
           name: 'lal'
         };
       },
+      props: {
+        propsName: String,
+        age: Number
+      },
       methods: {
         clickMe: function () {
-          alert(this.name = 522);
+          alert(this.age);
         }
       }
     };

@@ -5,7 +5,7 @@
         <p>23</p>
         <p>6999</p>
         </h2>
-        <v-component></v-component>
+        <v-component :propsName="name" :age="age"></v-component>
     </div>
 </template>
 <script>
@@ -15,16 +15,9 @@ export default {
   data () {
     return {
       name: 'LOOHOOC',
+      age: 20
     };
   },
-//  props: {
-//   'myName': String,
-//  },
-//  computed: {
-//    getName: function () {
-//      return this.name;
-//    }
-//  },
   methods: {
     handelerClick: function () {
       alert(this.name);
